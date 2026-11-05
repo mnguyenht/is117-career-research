@@ -1,6 +1,6 @@
 # Career Research: Forward Deployed Engineering and Two Alternatives
 
-Individual career and portfolio research for IS117, for class on Thursday 5 Nov 2026. 17 job postings from 13 employers, each opened on the employer's own job page on 4 Nov 2026, with a [screenshot of every posting](evidence/).
+Individual career and portfolio research for IS117, for class on Thursday 5 Nov 2026. 17 job postings from 13 employers, each opened on the employer's own job page on 4 Nov 2026, with a [screenshot of every posting](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
 **Finding:** All three role families hire people who ship working software for someone else, and most want to see that work before they read a resume. Only internships are open to me today: 5 of the 17 postings. Forward deployed engineering fits the evidence I already have best. My clearest gap is proof that I can measure whether an AI feature works.
 
@@ -268,7 +268,7 @@ Does freelance client work like my networking-group site count as the customer-f
 
 ## Sources
 
-All opened 4 Nov 2026 on the employer's own job page. Screenshots are in [evidence/](evidence/).
+All opened 4 Nov 2026 on the employer's own job page. Screenshots are in [evidence/](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
 - **FDE:** [F1 Palantir](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d), [F2 Palantir](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6), [F3 Ramp](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8), [F4 Decagon](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2), [F5 Commure](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0), [F6 OpenAI](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688)
 - **Design Engineer:** [D1 Perplexity](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666), [D2 Ramp](https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f), [D3 Cohere](https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d)

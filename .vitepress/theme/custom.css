@@ -1,0 +1,24 @@
+/* No native scrollbars anywhere; scrolling itself is untouched. */
+* {
+  scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+/* A one-page deck with wide tables and a figure: give the text column more room on wide screens.
+   The "html .VPContent" prefix outranks VitePress's scoped component styles. */
+@media (min-width: 1280px) {
+  html .VPContent .VPDoc:not(.has-sidebar) .container {
+    max-width: 1280px;
+  }
+
+  html .VPContent .VPDoc:not(.has-sidebar) .content {
+    max-width: 960px;
+  }
+
+  html .VPContent .VPDoc.has-aside .content-container {
+    max-width: 896px;
+  }
+}
