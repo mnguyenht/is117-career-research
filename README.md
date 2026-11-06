@@ -2,7 +2,7 @@
 
 Individual career and portfolio research for IS117, for class on Thursday 5 Nov 2026. 17 job postings from 13 employers, each opened on the employer's own job page on 4 Nov 2026, with a [screenshot of every posting](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
-**Finding:** All three role families hire people who ship working software for someone else, and most want to see that work before they read a resume. Only internships are open to me today: 5 of the 17 postings. Forward deployed engineering fits the evidence I already have best. My clearest gap is proof that I can measure whether an AI feature works.
+**Finding:** All three role families hire people who ship working software for someone else, and most want to see that work before they read a resume. Only internships are open to a first-year today: 5 of the 17 postings. Forward deployed engineering fits the evidence I already have best. My clearest gap is proof that I can measure whether an AI feature works.
 
 ## At a glance
 
@@ -42,11 +42,11 @@ Individual career and portfolio research for IS117, for class on Thursday 5 Nov 
 
 ## Job records
 
-Each ID links to its screenshot. Pay is copied as posted (currency USD); senior ranges say nothing about entry pay. "Open to me" assumes I graduate after Spring 2028.
+Each ID links to its screenshot. Pay is copied as posted (currency USD); senior ranges say nothing about entry pay. "Open to first-years" means the posting's own eligibility rules admit a first-year student.
 
 ### Forward Deployed Engineer
 
-| ID | Employer and title | Where | Experience asked | Pay as posted | Open to me |
+| ID | Employer and title | Where | Experience asked | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
 | [F1](evidence/f1-palantir.jpg) | [Palantir: Year at Palantir, Forward Deployed Software Engineer, Internship (Commercial)](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | New York, on-site | Student; applying AI through coursework or projects counts | $5,900 to $10,500/month | **Yes** |
 | [F2](evidence/f2-palantir.jpg) | [Palantir: Forward Deployed Software Engineer, Internship (Commercial)](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | New York; 25 to 50% travel | Graduating Dec 2027 or Spring 2028 | About $10,000/month | No |
@@ -62,7 +62,8 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 - Work: embed with customers; build on their business-critical data and AI; own implementation end to end on a small team. The posting offers an FDSE track and a software engineering track.
 - Required: one or more of Python, Java, C++, TypeScript or JavaScript; hands-on experience applying AI, where coursework, personal projects, internships or extracurriculars all count.
 - Preferred: a degree in engineering, CS, math, software engineering, physics or data science.
-- Work samples: none stated. No graduation cutoff stated.
+- Eligibility: states it is open to freshmen and sophomores as well as juniors and seniors (rechecked 5 Nov 2026). A U.S. security clearance is a plus, not required, for commercial roles.
+- Work samples: none stated. Deadline: not stated.
 - Unknown: the posting doesn't say how long the "Year at Palantir" program runs.
 
 **F2 · Palantir · FDSE Internship.** Evergreen repost (Lever date 2016).
@@ -93,7 +94,7 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 ### Design Engineer
 
-| ID | Employer and title | Where | Experience asked | Pay as posted | Open to me |
+| ID | Employer and title | Where | Experience asked | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
 | [D1](evidence/d1-perplexity.jpg) | [Perplexity: Design Engineer, Growth & Marketing](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666) | San Francisco | 3+ years | $180K to $300K + equity | No |
 | [D2](evidence/d2-ramp.jpg) | [Ramp: Design Engineer](https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f) | New York HQ, hybrid | Not stated | $172K to $440K + equity | No |
@@ -122,7 +123,7 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 ### Developer Relations
 
-| ID | Employer and title | Where | Experience asked | Pay as posted | Open to me |
+| ID | Employer and title | Where | Experience asked | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
 | [R1](evidence/r1-vercel.jpg) | [Vercel: DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Hybrid: San Francisco, New York, Austin | 5+ years | $168,000 to $252,000 base (SF) | No |
 | [R2](evidence/r2-supabase.jpg) | [Supabase: Developer Relations Engineer (New York)](https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb) | Remote, must live in New York | Not stated | Not listed | No |
@@ -155,7 +156,7 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 ### Entry paths for summer 2027
 
-| ID | Employer and title | Where | Eligibility | Pay as posted | Open to me |
+| ID | Employer and title | Where | Eligibility | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
 | [E1](evidence/e1-ramp.jpg) | [Ramp: Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | New York HQ, hybrid | Pursuing a BS, graduating Dec 2027 or later | $12,500/month + housing stipend | **Yes** |
 | [E2](evidence/e2-figma.jpg) | [Figma: Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/figma/jobs/6143238004) | San Francisco or New York hub | No graduation window stated | $55/hour + housing stipend | **Yes** |
@@ -206,9 +207,9 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 | Location and travel | NYC, SF; 20 to 50% travel in 3 postings | NYC, SF, remote | NYC, SF; on camera and at events |
 | Evidence I have | Client build with CRM and CMS, applied-AI project, open-source toolkit | Figma plus React work, Standard Issue store, a design-competition app | Toolkit that teaches builders, video directing, content brand experiment, pitching |
 | Biggest gap | Evaluation; integration depth beyond a landing page | A portfolio site with interaction craft | Developer-facing teaching: a tutorial, a talk or a demo repo |
-| Open to me now | **Yes:** F1, plus E1 as a front-end route in | Through E1 (front end) or E3 (design) | No DevRel internship found |
+| Open to first-years now | **Yes:** F1, plus E1 as a front-end route in | Through E1 (front end) or E3 (design) | No DevRel internship found |
 
-**Why FDE first:** it is the only family with a posting open to me today (F1), and its core task is the one I've already done for a real client. DevRel uses my most unusual strengths, video and an audience, but every DevRel posting I found is full-time and three of four ask for 3 or more years. Design engineering screens on a portfolio of interaction craft that I'd have to build first.
+**Why FDE first:** it is the only family with a posting open to a first-year today (F1), and its core task is the one I've already done for a real client. DevRel uses my most unusual strengths, video and an audience, but every DevRel posting I found is full-time and three of four ask for 3 or more years. Design engineering screens on a portfolio of interaction craft that I'd have to build first.
 
 ## My provisional target
 
@@ -259,12 +260,18 @@ Proposed dates; the course's deadlines override them.
 
 Does freelance client work like my networking-group site count as the customer-facing experience FDE internships look for, or do reviewers want to see it inside a company?
 
+## Peer review and revisions
+
+Classmates review this research by [opening an issue](https://github.com/mnguyenht/is117-career-research/issues/new?template=peer-review.md): one observation, why it matters and a suggested next step. I answer each issue in its thread with a decision (implement, investigate, defer or decline) and the reason. An accepted change lands in a commit that names the issue number; the issue then links that commit and says how the change was checked, and the reviewer re-checks it before it closes. Unfinished work stays open with a next step.
+
+**Status, 5 Nov 2026:** no peer issues yet.
+
 ## Method, AI use and limits
 
 - **How:** Claude Code (an AI assistant) ran two research subagents that found postings through each employer's public job data (Greenhouse, Lever and Ashby). Claude then re-fetched every posting from the employer's own source, checked the subagents' notes against it and corrected one count (F1 and F2 are the same employer). Headless Chromium (Playwright 1.64) saved a full-page screenshot of each posting. Nothing was applied to, no accounts were created and no one was contacted.
 - **What the AI did:** found the postings, summarized them in its own words, counted repeated capabilities, drafted the comparison, the target statement and the plan, and made the figure.
 - **What I provided:** the course guide and my CV. The target is provisional and mine to confirm.
-- **Limits:** 17 postings from 13 employers describe this sample, not the job market. Capability counts come from keyword matches in each posting's role text, then read by hand; a posting can need a skill it doesn't name. "Open to me" assumes I graduate after Spring 2028. Pay figures are what each posting lists, not offers. F5 is tagged remote but lists a Mountain View location, and the posting doesn't explain which applies. Personal contact details are left out on purpose. Screenshots of job pages are kept for study and commentary.
+- **Limits:** 17 postings from 13 employers describe this sample, not the job market. Capability counts come from keyword matches in each posting's role text, then read by hand; a posting can need a skill it doesn't name. "Open to first-years" reflects each posting's stated rules, not a personal eligibility check. Pay figures are what each posting lists, not offers. F5 is tagged remote but lists a Mountain View location, and the posting doesn't explain which applies. Personal contact details are left out on purpose. Screenshots of job pages are kept for study and commentary.
 
 ## Sources
 
