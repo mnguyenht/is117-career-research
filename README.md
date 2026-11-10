@@ -1,19 +1,19 @@
 # Career Research: Forward Deployed Engineering and Two Alternatives
 
-Individual career and portfolio research for IS117, for class on Thursday 5 Nov 2026. 17 job postings from 13 employers, each opened on the employer's own job page on 4 Nov 2026, with a [screenshot of every posting](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
+Individual career and portfolio research for IS117, for class on Thursday 5 Nov 2026. 15 job postings from 12 employers, each opened on the employer's own job page on 4 Nov 2026, with a [screenshot of every posting](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
-**Finding:** All three role families hire people who ship working software for someone else, and most want to see that work before they read a resume. Only internships are open to a first-year today: 5 of the 17 postings. Forward deployed engineering fits the evidence I already have best. My clearest gap is proof that I can measure whether an AI feature works.
+**Finding:** All three role families hire people who ship working software for someone else, and most want to see that work before they read a resume. Only internships are open to a first-year today: 4 of the 15 postings. Forward deployed engineering fits the evidence I already have best. My clearest gap is proof that I can measure whether an AI feature works.
 
 ## At a glance
 
-![Experience asked by 17 job postings, grouped into tiers. 5 are open to a first-year CS student today, and all 5 are internships.](assets/experience-tiers.png)
+![Experience asked by 15 job postings, grouped into tiers. 4 are open to a first-year CS student today, and all 4 are internships.](assets/experience-tiers.png)
 
 | | My answer |
 | --- | --- |
 | **Target, long term** | Forward Deployed Engineer: build and ship AI software inside a customer's organization |
-| **Adjacent alternative** | Developer Relations: build with a product, then teach developers through demos, writing and video |
-| **Entry options open now** | [Year at Palantir FDSE Internship](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) and [Ramp Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74), both in New York |
-| **Capability that repeats** | Scoping a customer's problem and delivering it end to end: all 6 FDE postings, 5 employers |
+| **Adjacent alternative** | Design Engineer: design and build product UI in one seat, from Figma to production code and design systems |
+| **Entry options open now** | [Ramp Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) in New York, and [Figma Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/figma/jobs/6143238004) in San Francisco or New York |
+| **Capability that repeats** | Scoping a customer's problem and delivering it end to end: all 4 FDE postings, 4 employers |
 | **Gap to close first** | Evaluation: showing with tests and numbers that an AI feature works |
 | **First portfolio pieces** | A written case study of a client site I built, then a reproducible benchmark of my open-source toolkit |
 
@@ -35,10 +35,10 @@ Individual career and portfolio research for IS117, for class on Thursday 5 Nov 
 
 | Family | The work | Why I looked at it | Records |
 | --- | --- | --- | --- |
-| **Forward Deployed Engineer** | Embed with a customer, scope a vague problem, build and ship AI software, support adoption | The course's reference role, and my client build is a small version of it | F1 to F6 |
+| **Forward Deployed Engineer** | Embed with a customer, scope a vague problem, build and ship AI software, support adoption | The course's reference role, and my client build is a small version of it | F3 to F6 |
 | **Design Engineer** | Design and build product UI in one seat, from Figma to production code and design systems | I design in Figma and build in React, and one posting names Claude Code outright | D1 to D3 |
 | **Developer Relations** | Build with a product, then teach developers through demos, tutorials, talks and video | I make video and content, and bld-package already teaches other builders | R1 to R4 |
-| **Entry paths** | Internships a first-year can apply to | Where I could start in summer 2027 | E1 to E4, plus F1 |
+| **Entry paths** | Internships a first-year can apply to | Where I could start in summer 2027 | E1 to E4 |
 
 ## Job records
 
@@ -48,29 +48,13 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 | ID | Employer and title | Where | Experience asked | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
-| [F1](evidence/f1-palantir.jpg) | [Palantir: Year at Palantir, Forward Deployed Software Engineer, Internship (Commercial)](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | New York, on-site | Student; applying AI through coursework or projects counts | $5,900 to $10,500/month | **Yes** |
-| [F2](evidence/f2-palantir.jpg) | [Palantir: Forward Deployed Software Engineer, Internship (Commercial)](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | New York; 25 to 50% travel | Graduating Dec 2027 or Spring 2028 | About $10,000/month | No |
 | [F3](evidence/f3-ramp.jpg) | [Ramp: Software Engineer, Forward Deployed](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8) | New York HQ, hybrid | 3+ years preferred | $168K to $285K + equity | No |
 | [F4](evidence/f4-decagon.jpg) | [Decagon: Agent Deployment Engineer](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2) | New York City, on-site | 5+ years, technical and customer-facing | $175K to $230K + equity | No |
 | [F5](evidence/f5-commure.jpg) | [Commure: Forward Deployed Engineer](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0) | Mountain View, CA (also tagged remote); up to 20% travel | Bachelor's plus 1+ year | $130K to $190K + equity | No |
 | [F6](evidence/f6-openai.jpg) | [OpenAI: Forward Deployed Engineer (FDE), SF](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688) | San Francisco, 3 office days; up to 50% travel | 5+ years | $185K to $300K + equity | No |
 
 <details>
-<summary><b>F1 to F6: full records</b></summary>
-
-**F1 · Palantir · Year at Palantir, FDSE Internship.** Posted about 20 Mar 2026 (Lever).
-- Work: embed with customers; build on their business-critical data and AI; own implementation end to end on a small team. The posting offers an FDSE track and a software engineering track.
-- Required: one or more of Python, Java, C++, TypeScript or JavaScript; hands-on experience applying AI, where coursework, personal projects, internships or extracurriculars all count.
-- Preferred: a degree in engineering, CS, math, software engineering, physics or data science.
-- Eligibility: states it is open to freshmen and sophomores as well as juniors and seniors (rechecked 5 Nov 2026). A U.S. security clearance is a plus, not required, for commercial roles.
-- Work samples: none stated. Deadline: not stated.
-- Unknown: the posting doesn't say how long the "Year at Palantir" program runs.
-
-**F2 · Palantir · FDSE Internship.** Evergreen repost (Lever date 2016).
-- Work: deploy software and AI into large institutions; make architecture decisions with other engineers; build custom applications and LLM workflows for one customer; own relationships from users to executives.
-- Required: one or more of the languages above; graduating Dec 2027 or Spring 2028.
-- Application asks for a PDF resume and written answers.
-- Same employer as F1, so the pair counts as one employer. Palantir also posts an [FDSE New Grad role](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) (Dec 2026 or Spring 2027 graduates, $135,000 to $145,000/year).
+<summary><b>F3 to F6: full records</b></summary>
 
 **F3 · Ramp · Software Engineer, Forward Deployed.** Posted 22 Oct 2026. Fintech.
 - Work: deliver software end to end for Ramp's largest customers; scope product specs and build agents that carry them out; work with sales, solutions and account teams to close and grow deals; decide when to build custom and when to push a broader project.
@@ -190,8 +174,8 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 | Capability | Records | Employers | What it means for me |
 | --- | --- | --- | --- |
-| Scope a customer's problem, deliver it end to end | F1 to F6 | 5 | The core FDE skill. My client build is the closest evidence I have, and it isn't written up yet. |
-| Build with LLMs or agents | F2 to F6, D2, D3, R1, R3, R4 | 9 | Shows up in all three families. My AI work so far is a toolkit for builders and one course project. |
+| Scope a customer's problem, deliver it end to end | F3 to F6 | 4 | The core FDE skill. My client build is the closest evidence I have, and it isn't written up yet. |
+| Build with LLMs or agents | F3 to F6, D2, D3, R1, R3, R4 | 8 | Shows up in all three families. My AI work so far is a toolkit for builders and one course project. |
 | Build demos or prototypes | F5, F6, D2, R1 to R4, E2, E3 | 8 | A working demo with a walkthrough is the common currency. Video is a strength I can use here. |
 | Show public work before the interview | Required: D1, D2, R1. Preferred: R2, R3 | 5 | Design engineering and DevRel screen on it. I have repos and live sites but no single page tying them together. |
 | Use AI coding tools with judgment | D1, D2, E2, E4 | 4 | Stripe asks interns to check and correct what AI tools produce. My case studies need an AI-use section that shows this. |
@@ -203,28 +187,28 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 | | Forward Deployed Engineer | Design Engineer | Developer Relations |
 | --- | --- | --- | --- |
 | Industries in my sample | Fintech, health tech, support AI, frontier AI | AI search, fintech, enterprise AI | Developer platforms, AI infrastructure, frontier AI |
-| Experience asked | 1 to 5+ years; internships at Palantir | 3+ years or not stated; portfolio required | 3 to 5+ years, or not stated (R2) |
-| Location and travel | NYC, SF; 20 to 50% travel in 3 postings | NYC, SF, remote | NYC, SF; on camera and at events |
+| Experience asked | 1 to 5+ years | 3+ years or not stated; portfolio required | 3 to 5+ years, or not stated (R2) |
+| Location and travel | NYC, SF; 20 to 50% travel in 2 postings | NYC, SF, remote | NYC, SF; on camera and at events |
 | Evidence I have | Client build with CRM and CMS, applied-AI project, open-source toolkit | Figma plus React work, Standard Issue store, a design-competition app | Toolkit that teaches builders, video directing, content brand experiment, pitching |
 | Biggest gap | Evaluation; integration depth beyond a landing page | A portfolio site with interaction craft | Developer-facing teaching: a tutorial, a talk or a demo repo |
-| Open to first-years now | **Yes:** F1, plus E1 as a front-end route in | Through E1 (front end) or E3 (design) | No DevRel internship found |
+| Open to first-years now | No FDE internship in this sample; E1 is a front-end route in | Through E1 (front end) or E3 (design) | No DevRel internship found |
 
-**Why FDE first:** it is the only family with a posting open to a first-year today (F1), and its core task is the one I've already done for a real client. DevRel uses my most unusual strengths, video and an audience, but every DevRel posting I found is full-time and three of four ask for 3 or more years. Design engineering screens on a portfolio of interaction craft that I'd have to build first.
+**Why FDE first:** its core task, scoping a customer's problem and shipping it end to end, is the one I've already done for a real client. No FDE posting in this sample is open to a first-year, so I'd start through a software internship (E1 or E2). Design engineering is my second choice: I already design in Figma and build in React, but it screens on a portfolio of interaction craft that I'd have to build first. DevRel uses my most unusual strengths, video and an audience, but every DevRel posting I found is full-time and three of four ask for 3 or more years.
 
 ## My provisional target
 
-> I am exploring **forward deployed engineering** for organizations that run on customer data and content, starting with bilingual clients like the one I've already built for. Records F1 to F6 repeatedly ask for scoping a customer's problem and shipping it end to end, and five of the six name LLMs or agents. I'm drawn to it because my best work so far was built for someone else to run without me: a client site whose staff edit it through a CMS, and a toolkit other builders install. I can already show a client build, an applied-AI course project and an open-source AI toolkit. My next project will test whether I enjoy measuring software as much as shipping it, and give me evidence for evaluation. My near-term entry option is the Year at Palantir FDSE internship (F1), with Ramp's frontend internship (E1) as the closer match to my current skills.
+> I am exploring **forward deployed engineering** for organizations that run on customer data and content, starting with bilingual clients like the one I've already built for. Records F3 to F6 repeatedly ask for scoping a customer's problem and shipping it end to end, and all four name LLMs or agents. I'm drawn to it because my best work so far was built for someone else to run without me: a client site whose staff edit it through a CMS, and a toolkit other builders install. I can already show a client build, an applied-AI course project and an open-source AI toolkit. My next project will test whether I enjoy measuring software as much as shipping it, and give me evidence for evaluation. My near-term entry options are Ramp's frontend internship (E1) and Figma's software engineering internship (E2), both open to first-years.
 
-**Alternative:** Developer Relations, if the measuring and writing in that next project turns out to be the part I enjoy most. The benchmark write-up would double as my first developer-facing teaching piece.
+**Alternative:** Design Engineer, my second choice. Ramp's frontend internship (E1) is interface work, so it adds evidence for this path too. The gap is a portfolio that shows interaction craft, which D1 and D2 require.
 
 ## Skills to evidence
 
 | Employer need | Records | What I can show now | Gap | Artifact to build | How a reviewer checks it |
 | --- | --- | --- | --- | --- | --- |
-| Scope a customer's problem | F1 to F6 | The networking-group site: two teams with different needs, asset rights cleared, both approved | Decisions aren't written down anywhere | Case study: problem, constraints, alternatives, what I built, what I'd change | Read it alongside screenshots of the shipped site |
+| Scope a customer's problem | F3 to F6 | The networking-group site: two teams with different needs, asset rights cleared, both approved | Decisions aren't written down anywhere | Case study: problem, constraints, alternatives, what I built, what I'd change | Read it alongside screenshots of the shipped site |
 | Integrate with customer systems | F4, F5 | Zoho CRM and Sanity CMS on the same build | One integration, front-end side only | A data-flow diagram inside the case study | Diagram, plus code excerpts (the client repo stays private) |
 | Evaluate AI output | F4, F6 | Nothing yet. bld-package's README claims "up to 80%" less context and "up to 75%" fewer tokens, with no published method | This is the gap | Benchmark repo: the same tasks run with and without bld-package, tokens logged, method and raw results public | Re-run the script and compare with the published logs |
-| Build with LLMs or agents for a user | F2 to F6, D2, R1 | bld-package (for builders); the fitness app (LLM-written messages) | Nothing built for a non-technical user's task | Later: a small agent workflow for a real campus organization, with a rule-based baseline and a human review step | Demo, repo and test results against the baseline |
+| Build with LLMs or agents for a user | F3 to F6, D2, R1 | bld-package (for builders); the fitness app (LLM-written messages) | Nothing built for a non-technical user's task | Later: a small agent workflow for a real campus organization, with a rule-based baseline and a human review step | Demo, repo and test results against the baseline |
 | Demo and explain | F5, F6, R1 to R4 | The fitness app's demo video and spec; film and editing work | No developer-facing demo | A 3-minute walkthrough of the benchmark | Watch it |
 | Public work, one place | D1, D2, R1, R2, R3 | GitHub repos, live sites | No portfolio page with a stated target | Portfolio page: target at the top, the two case studies first | A classmate finds my target and strongest proof in under a minute |
 | Use AI tools with judgment | D1, D2, E2, E4 | Built most projects with Claude Code | The judgment isn't visible | An AI-use section in every case study: what the AI did, what I checked and fixed | Read it |
@@ -268,23 +252,22 @@ Classmates review this research by [opening an issue](https://github.com/mnguyen
 
 ## Method, AI use and limits
 
-- **How:** Claude Code (an AI assistant) ran two research subagents that found postings through each employer's public job data (Greenhouse, Lever and Ashby). Claude then re-fetched every posting from the employer's own source, checked the subagents' notes against it and corrected one count (F1 and F2 are the same employer). Headless Chromium (Playwright 1.64) saved a full-page screenshot of each posting. Nothing was applied to, no accounts were created and no one was contacted.
+- **How:** Claude Code (an AI assistant) ran two research subagents that found postings through each employer's public job data (Greenhouse, Lever and Ashby). Claude then re-fetched every posting from the employer's own source and checked the subagents' notes against it. Headless Chromium (Playwright 1.64) saved a full-page screenshot of each posting. Nothing was applied to, no accounts were created and no one was contacted.
 - **What the AI did:** found the postings, summarized them in its own words, counted repeated capabilities, drafted the comparison, the target statement and the plan, and made the figure.
 - **What I provided:** the course guide and my CV. The target is provisional and mine to confirm.
-- **Limits:** 17 postings from 13 employers describe this sample, not the job market. Capability counts come from keyword matches in each posting's role text, then read by hand; a posting can need a skill it doesn't name. "Open to first-years" reflects each posting's stated rules, not a personal eligibility check. Pay figures are what each posting lists, not offers. F5 is tagged remote but lists a Mountain View location, and the posting doesn't explain which applies. Personal contact details are left out on purpose. Screenshots of job pages are kept for study and commentary.
+- **Limits:** 15 postings from 12 employers describe this sample, not the job market. Palantir postings were left out on purpose: I chose not to consider the company because of the work it does. Capability counts come from keyword matches in each posting's role text, then read by hand; a posting can need a skill it doesn't name. "Open to first-years" reflects each posting's stated rules, not a personal eligibility check. Pay figures are what each posting lists, not offers. F5 is tagged remote but lists a Mountain View location, and the posting doesn't explain which applies. Personal contact details are left out on purpose. Screenshots of job pages are kept for study and commentary.
 
 ## Sources
 
 All opened 4 Nov 2026 on the employer's own job page. Screenshots are in [evidence/](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
-- **FDE:** [F1 Palantir](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d), [F2 Palantir](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6), [F3 Ramp](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8), [F4 Decagon](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2), [F5 Commure](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0), [F6 OpenAI](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688)
+- **FDE:** [F3 Ramp](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8), [F4 Decagon](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2), [F5 Commure](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0), [F6 OpenAI](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688)
 - **Design Engineer:** [D1 Perplexity](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666), [D2 Ramp](https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f), [D3 Cohere](https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d)
 - **Developer Relations:** [R1 Vercel](https://job-boards.greenhouse.io/vercel/jobs/6122437004), [R2 Supabase](https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb), [R3 Modal](https://jobs.ashbyhq.com/modal/546c9eb1-aaf7-47ba-8e9d-0bcd443b3e94), [R4 Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5383596008)
 - **Entry paths:** [E1 Ramp](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74), [E2 Figma](https://job-boards.greenhouse.io/figma/jobs/6143238004), [E3 Figma](https://job-boards.greenhouse.io/figma/jobs/6180005004), [E4 Stripe](https://stripe.com/careers/listing/software-engineer-intern-summer-or-winter/8128745)
 - **Portfolios:** [emilkowal.ski](https://emilkowal.ski), [rauno.me/craft](https://rauno.me/craft), [leerob.com](https://leerob.com), [amandeep-mander.pages.dev](https://amandeep-mander.pages.dev/)
 - **Checked and set aside:**
   - [Databricks AI Engineer, Forward Deployed Engineering](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002): states it is not for interns, new graduates or entry-level applicants.
-  - [Palantir FDSE New Grad](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728): Dec 2026 or Spring 2027 graduates only.
   - [Decagon Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b) and [Vercel Software Engineering Intern](https://job-boards.greenhouse.io/vercel/jobs/6181759004): both limited to 2027 and 2028 graduates.
   - Google's STEP internship for first- and second-years: no 2027 posting found on Google's own site; aggregator listings conflict.
   - Hebbia, Glean, Anduril and Rippling: no job board found at the expected addresses. Granola and Lovable design engineer roles: London only.
