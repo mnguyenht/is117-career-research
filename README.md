@@ -1,6 +1,6 @@
 # Career Research: Forward Deployed Engineering and Two Alternatives
 
-Individual career and portfolio research for IS117, for class on Thursday 5 Nov 2026. 15 job postings from 12 employers, each opened on the employer's own job page on 4 Nov 2026, with a [screenshot of every posting](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
+I'm a CS student who builds software for real clients and directs video on the side. This is my IS117 career research into which jobs want that mix, and what I'd still need to show them. It covers 15 job postings from 12 employers, each opened on the employer's own job page on 4 Nov 2026 and rechecked on 11 Nov 2026, with a [screenshot of every posting](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
 **Finding:** All three role families hire people who ship working software for someone else, and most want to see that work before they read a resume. Only internships are open to a first-year today: 4 of the 15 postings. Forward deployed engineering fits the evidence I already have best. My clearest gap is proof that I can measure whether an AI feature works.
 
@@ -19,17 +19,17 @@ Individual career and portfolio research for IS117, for class on Thursday 5 Nov 
 
 ## Where I'm starting
 
-**What I can show now** (summarized from my resume; my own repos are linked):
+**What I can show now** (from my resume, linked wherever there's something public to open):
 
-- **Client build:** a bilingual Next.js landing page for one chapter of an international business networking group (2026). A CRM and a CMS are integrated so staff can update it without a developer. I coordinated local staff and the group's international marketing team on asset rights, and both teams approved the result.
-- **AI tooling:** [bld-package](https://github.com/mnguyenht/bld-package), an open-source Claude Code skill set (25 skills, per its README) covering planning, design, security and deployment.
-- **Applied AI:** a computer-vision fitness app built as a course project. It counts reps in real time, writes messages with an LLM and runs scheduled daily checks.
-- **Mobile and design:** an Android social app built for a design competition, with trust-and-safety and privacy design.
-- **Brand and front end:** the [Standard Issue store](https://standard-issue-is117.vercel.app) and its [competitive research](https://github.com/mnguyenht/is117-tshirt-research) for this course; [ProdSystems](https://prodsystems.vercel.app/) in React, Tailwind and shadcn.
-- **Work:** a paid React internship at a software outsourcing firm (2025); a beta-testing and marketing internship at an ed-tech company (2024).
-- **Content and directing:** a social media personality run as a brand experiment; directing and editing sports videos; public speaking, pitching and competitive debate.
+- **Client build:** [CorporateConnections Hà Nội A](https://www.cchanoia.com/), a bilingual Next.js site I built in 2026 for one chapter of an international business networking group. Zoho CRM and Sanity CMS are wired in so the staff can update it without a developer. I worked with local staff and the group's international marketing team to clear the rights on every asset, and both teams approved the result.
+- **AI tooling:** [bld-package](https://github.com/mnguyenht/bld-package), an open-source Claude Code skill set I built over summer 2026 (25 skills, per its README) for planning, design, security and deployment.
+- **Applied AI:** Pushup Enforcer, a computer-vision fitness app I built as a course final project. It counts reps in real time, and if you miss your daily quota it emails your friends an embarrassing message an LLM wrote about you.
+- **Mobile and design:** LinkUp, an Android app that helps college students find people free for a quick meetup, built with Expo and MapLibre for the Silicon Valley School of Design competition (2026), with trust-and-safety and privacy designed in ([submission video](https://drive.google.com/file/d/1mnC1yCjYFKKtYtU4N2Fh4lmu0Wa_6D2v/view)). Before that, [Ascent](https://github.com/mnguyenht/Ascent), a React Native music app I designed in Figma first (2023–24).
+- **Brand and front end:** the [Standard Issue store](https://standard-issue-is117.vercel.app) and its [competitive research](https://github.com/mnguyenht/is117-tshirt-research) for this course; [ProdSystems](https://prodsystems.vercel.app/) ([code](https://github.com/mnguyenht/prodsystems)), a minimalist productivity toolkit in React, Tailwind and shadcn.
+- **Work:** a paid React internship at Fabbi, a software outsourcing firm, mentored by professional developers (2025); a beta-testing and marketing internship at EUP, an ed-tech company (2024).
+- **Content and directing:** a social media personality I run as a brand experiment; directing and editing sports videos for Blazio Sports, a youth sports-media social enterprise; audio/visual direction for [Tapyoca Tuesdays](https://www.instagram.com/tapyocamusic/), a live music night; public speaking, pitching and competitive debate.
 
-**Constraints:** First-year CS student based near New York, the closest hub. I'm looking at summer 2027 internships; full-time postings here are long-term references. FDE postings list 20 to 50% travel, which I'd need to weigh later.
+**Constraints:** First-year CS student based near New York, the closest hub. I'm looking at summer 2027 internships; full-time postings here are long-term references. FDE postings list 40 to 50% travel, which I'd need to weigh later.
 
 ## Three role families
 
@@ -48,27 +48,30 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 | ID | Employer and title | Where | Experience asked | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
-| [F3](evidence/f3-ramp.jpg) | [Ramp: Software Engineer, Forward Deployed](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8) | New York HQ, hybrid | 3+ years preferred | $168K to $285K + equity | No |
+| [F3](evidence/f3-ramp.jpg) | [Ramp: Software Engineer, Forward Deployed, Enterprise Product](https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce) | New York HQ or San Francisco, hybrid | 3+ years preferred | $189K to $330K + equity | No |
 | [F4](evidence/f4-decagon.jpg) | [Decagon: Agent Deployment Engineer](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2) | New York City, on-site | 5+ years, technical and customer-facing | $175K to $230K + equity | No |
-| [F5](evidence/f5-commure.jpg) | [Commure: Forward Deployed Engineer](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0) | Mountain View, CA (also tagged remote); up to 20% travel | Bachelor's plus 1+ year | $130K to $190K + equity | No |
+| [F5](evidence/f5-langchain.jpg) | [LangChain: Deployed Engineer (Early Career- SF)](https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522) | San Francisco, on-site; 40% travel | 1 to 3 years | $160K to $185K OTE (base + variable) | No |
 | [F6](evidence/f6-openai.jpg) | [OpenAI: Forward Deployed Engineer (FDE), SF](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688) | San Francisco, 3 office days; up to 50% travel | 5+ years | $185K to $300K + equity | No |
 
 <details>
 <summary><b>F3 to F6: full records</b></summary>
 
-**F3 · Ramp · Software Engineer, Forward Deployed.** Posted 22 Oct 2026. Fintech.
-- Work: deliver software end to end for Ramp's largest customers; scope product specs and build agents that carry them out; work with sales, solutions and account teams to close and grow deals; decide when to build custom and when to push a broader project.
+**F3 · Ramp · Software Engineer, Forward Deployed, Enterprise Product.** Posted 22 Oct 2026. Fintech.
+- Work: deliver software end to end for Ramp's largest customers; scope product specs and build agents that carry them out; work with sales, solutions, customer success and account teams to close deals and activate customers; embed in one product area and decide when to build custom and when to push a broader project.
 - Required: extensive experience building with and for agents; shipping at scale; comfort facing customers. Preferred: 3+ years of software engineering.
 - Work samples: none stated.
+- Re-listed: the link I saved on 4 Nov showed "Job not found" by 11 Nov; Ramp re-posted the role under this title with the same posted date.
 
 **F4 · Decagon · Agent Deployment Engineer.** Posted 13 May 2026. Customer support AI.
 - Work: own architecture and delivery of AI agents for enterprise customers, from scoping through evaluation to production; design agent logic and guardrails; build integrations with customer CRMs, ticketing systems and data pipelines; debug model failures from traces; build evaluation and regression tests.
 - Required: 5+ years in a technical customer-facing role; strong coding and API skills. Preferred: LLM or agent work, enterprise SaaS integrations.
 
-**F5 · Commure · Forward Deployed Engineer.** Posted 26 Jun 2026. Health tech.
-- Work: learn healthcare clients' technical and compliance needs; integrate solutions into their settings; troubleshoot deployments; keep documentation current; travel up to 20% to build and demo on site.
-- Required: bachelor's in CS or engineering; 1+ year of professional software engineering; Python, JavaScript, React, SQL; experience building products from zero.
-- The lowest experience bar among the full-time FDE postings, and its stack matches mine.
+**F5 · LangChain · Deployed Engineer (Early Career).** Posted 7 Oct 2026. AI agent tooling.
+- Work: co-build production AI agents with customers' engineering teams; win pre-sales by designing proofs of concept; help customers deploy and run agent apps, and advise them after the sale; run demos, trainings and workshops; turn field lessons into reusable patterns and example code. 40% travel to customer sites.
+- Required: 1 to 3 years in software, customer or solutions engineering or a similar technical role; strong Python, JavaScript and systems fundamentals; hands-on experience building and deploying agent or LLM apps beyond simple API calls; clear technical communication. Preferred: agents in production (LangChain, LangGraph or similar); LLM evaluation, observability or guardrails; cloud and containers.
+- Work samples: none stated.
+- The lowest experience bar among the FDE postings and the only one aimed at early-career engineers. Its Python and JavaScript stack matches mine.
+- Replaces Commure's FDE posting (F5 until 11 Nov 2026), which was taken down; Commure now lists only a Senior FDE asking 4+ years.
 
 **F6 · OpenAI · Forward Deployed Engineer (FDE), SF.** Posted 11 Sep 2026. Same title as the course guide's J1.
 - Work: lead deployments of frontier models from discovery to production; own delivery across several deployments; build full-stack systems; turn repeated patterns into tools or playbooks; send field feedback to research and product. Success is measured by adoption, workflow impact and eval-driven feedback.
@@ -80,9 +83,9 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 | ID | Employer and title | Where | Experience asked | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
-| [D1](evidence/d1-perplexity.jpg) | [Perplexity: Design Engineer, Growth & Marketing](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666) | San Francisco | 3+ years | $180K to $300K + equity | No |
+| [D1](evidence/d1-perplexity.jpg) | [Perplexity: Design Engineer, Growth & Marketing](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666) | San Francisco or New York City | 3+ years | $180K to $300K + equity | No |
 | [D2](evidence/d2-ramp.jpg) | [Ramp: Design Engineer](https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f) | New York HQ, hybrid | Not stated | $172K to $440K + equity | No |
-| [D3](evidence/d3-cohere.jpg) | [Cohere: Design Engineer](https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d) | United States, remote | Not stated | $180K to $245K + equity | No |
+| [D3](evidence/d3-cohere.jpg) | [Cohere: Design Engineer](https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d) | United States, remote | 6+ years | $180K to $245K + equity | No |
 
 <details>
 <summary><b>D1 to D3: full records</b></summary>
@@ -100,6 +103,7 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 **D3 · Cohere · Design Engineer.** Posted 9 Oct 2026. Enterprise AI.
 - Work: own the Figma component library for Cohere's design system; build its components in production; keep design tokens in sync between Figma and code (CSS variables, Tailwind config); build Figma-to-code tooling and docs; make the system readable by AI models.
+- Required: 6+ years of design and/or engineering experience, with depth in both.
 - Preferred: Figma plugins, token pipelines, MCP workflows, WCAG, npm packaging.
 - Work samples: none stated.
 
@@ -111,13 +115,13 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 | --- | --- | --- | --- | --- | --- |
 | [R1](evidence/r1-vercel.jpg) | [Vercel: DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Hybrid: San Francisco, New York, Austin | 5+ years | $168,000 to $252,000 base (SF) | No |
 | [R2](evidence/r2-supabase.jpg) | [Supabase: Developer Relations Engineer (New York)](https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb) | Remote, must live in New York | Not stated | Not listed | No |
-| [R3](evidence/r3-modal.jpg) | [Modal: Developer Relations Engineer](https://jobs.ashbyhq.com/modal/546c9eb1-aaf7-47ba-8e9d-0bcd443b3e94) | San Francisco, on-site | 3+ years as a software engineer | $175K to $275K + equity | No |
+| [R3](evidence/r3-modal.jpg) | [Modal: Developer Relations Engineer](https://jobs.ashbyhq.com/modal/546c9eb1-aaf7-47ba-8e9d-0bcd443b3e94) | San Francisco, New York or Stockholm, on-site | 3+ years as a software engineer | $175K to $275K + equity | No |
 | [R4](evidence/r4-anthropic.jpg) | [Anthropic: Developer Relations](https://job-boards.greenhouse.io/anthropic/jobs/5383596008) | San Francisco or New York | 5+ years | $290,000 to $435,000 | No |
 
 <details>
 <summary><b>R1 to R4: full records</b></summary>
 
-**R1 · Vercel · DevRel Engineer, Agentic Infrastructure.** Updated 30 Oct 2026.
+**R1 · Vercel · DevRel Engineer, Agentic Infrastructure.** Updated 7 Nov 2026.
 - Work: build agents and apps on Vercel's AI products before launch; turn them into demos, templates and open-source projects; teach through writing, talks, video and live coding; feed rough edges back to product.
 - Required: shipped AI apps or agents; TypeScript, Next.js and the AI SDK; a public body of work; fast demo building.
 - Work samples: **required.** Applicants must link something they made that taught developers (a talk, repo, post or video). Applications without one are not considered.
@@ -179,16 +183,16 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 | Build demos or prototypes | F5, F6, D2, R1 to R4, E2, E3 | 8 | A working demo with a walkthrough is the common currency. Video is a strength I can use here. |
 | Show public work before the interview | Required: D1, D2, R1. Preferred: R2, R3 | 5 | Design engineering and DevRel screen on it. I have repos and live sites but no single page tying them together. |
 | Use AI coding tools with judgment | D1, D2, E2, E4 | 4 | Stripe asks interns to check and correct what AI tools produce. My case studies need an AI-use section that shows this. |
-| Evaluate AI output with tests | F4, F6 | 2 | Rare, and only in senior FDE postings, but it is exactly what a reviewer would ask about my toolkit's savings claims. |
+| Evaluate AI output with tests | F4, F6; a plus in F5 | 2 | Required only in senior FDE postings, and even the early-career one (F5) lists it as a plus. It is exactly what a reviewer would ask about my toolkit's savings claims. |
 | Own a design system, Figma to code | D1, D2, D3 | 3 | The design engineer signature. I've used design systems but haven't contributed to one. |
 
 ## Compare and choose
 
 | | Forward Deployed Engineer | Design Engineer | Developer Relations |
 | --- | --- | --- | --- |
-| Industries in my sample | Fintech, health tech, support AI, frontier AI | AI search, fintech, enterprise AI | Developer platforms, AI infrastructure, frontier AI |
-| Experience asked | 1 to 5+ years | 3+ years or not stated; portfolio required | 3 to 5+ years, or not stated (R2) |
-| Location and travel | NYC, SF; 20 to 50% travel in 2 postings | NYC, SF, remote | NYC, SF; on camera and at events |
+| Industries in my sample | Fintech, agent tooling, support AI, frontier AI | AI search, fintech, enterprise AI | Developer platforms, AI infrastructure, frontier AI |
+| Experience asked | 1 to 5+ years | 3 to 6+ years, or not stated (D2); portfolio required | 3 to 5+ years, or not stated (R2) |
+| Location and travel | NYC, SF; 40 to 50% travel in 2 postings | NYC, SF, remote | NYC, SF; on camera and at events |
 | Evidence I have | Client build with CRM and CMS, applied-AI project, open-source toolkit | Figma plus React work, Standard Issue store, a design-competition app | Toolkit that teaches builders, video directing, content brand experiment, pitching |
 | Biggest gap | Evaluation; integration depth beyond a landing page | A portfolio site with interaction craft | Developer-facing teaching: a tutorial, a talk or a demo repo |
 | Open to first-years now | No FDE internship in this sample; E1 is a front-end route in | Through E1 (front end) or E3 (design) | No DevRel internship found |
@@ -206,8 +210,8 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 | Employer need | Records | What I can show now | Gap | Artifact to build | How a reviewer checks it |
 | --- | --- | --- | --- | --- | --- |
 | Scope a customer's problem | F3 to F6 | The networking-group site: two teams with different needs, asset rights cleared, both approved | Decisions aren't written down anywhere | Case study: problem, constraints, alternatives, what I built, what I'd change | Read it alongside screenshots of the shipped site |
-| Integrate with customer systems | F4, F5 | Zoho CRM and Sanity CMS on the same build | One integration, front-end side only | A data-flow diagram inside the case study | Diagram, plus code excerpts (the client repo stays private) |
-| Evaluate AI output | F4, F6 | Nothing yet. bld-package's README claims "up to 80%" less context and "up to 75%" fewer tokens, with no published method | This is the gap | Benchmark repo: the same tasks run with and without bld-package, tokens logged, method and raw results public | Re-run the script and compare with the published logs |
+| Integrate with customer systems | F4 | Zoho CRM and Sanity CMS on the same build | One integration, front-end side only | A data-flow diagram inside the case study | Diagram, plus code excerpts (the client repo stays private) |
+| Evaluate AI output | F4, F6; F5 as a plus | Nothing yet. bld-package's README claims "up to 80%" less context and "up to 75%" fewer tokens, with no published method | This is the gap | Benchmark repo: the same tasks run with and without bld-package, tokens logged, method and raw results public | Re-run the script and compare with the published logs |
 | Build with LLMs or agents for a user | F3 to F6, D2, R1 | bld-package (for builders); the fitness app (LLM-written messages) | Nothing built for a non-technical user's task | Later: a small agent workflow for a real campus organization, with a rule-based baseline and a human review step | Demo, repo and test results against the baseline |
 | Demo and explain | F5, F6, R1 to R4 | The fitness app's demo video and spec; film and editing work | No developer-facing demo | A 3-minute walkthrough of the benchmark | Watch it |
 | Public work, one place | D1, D2, R1, R2, R3 | GitHub repos, live sites | No portfolio page with a stated target | Portfolio page: target at the top, the two case studies first | A classmate finds my target and strongest proof in under a minute |
@@ -248,20 +252,20 @@ Does freelance client work like my networking-group site count as the customer-f
 
 Classmates review this research by [opening an issue](https://github.com/mnguyenht/is117-career-research/issues/new?template=peer-review.md): one observation, why it matters and a suggested next step. I answer each issue in its thread with a decision (implement, investigate, defer or decline) and the reason. An accepted change lands in a commit that names the issue number; the issue then links that commit and says how the change was checked, and the reviewer re-checks it before it closes. Unfinished work stays open with a next step.
 
-**Status, 5 Nov 2026:** no peer issues yet.
+**Status, 11 Nov 2026:** 3 peer issues open ([see issues](https://github.com/mnguyenht/is117-career-research/issues)).
 
 ## Method, AI use and limits
 
-- **How:** Claude Code (an AI assistant) ran two research subagents that found postings through each employer's public job data (Greenhouse, Lever and Ashby). Claude then re-fetched every posting from the employer's own source and checked the subagents' notes against it. Headless Chromium (Playwright 1.64) saved a full-page screenshot of each posting. Nothing was applied to, no accounts were created and no one was contacted.
+- **How:** Claude Code (an AI assistant) ran two research subagents that found postings through each employer's public job data (Greenhouse, Lever and Ashby). Claude then re-fetched every posting from the employer's own source and checked the subagents' notes against it. On 11 Nov 2026 Claude rechecked every posting through each job board's public data: 13 were still open (small updates are recorded above), and two FDE postings had closed, so F3 now points to Ramp's re-listing and F5 to a LangChain posting. Headless Chromium (Playwright 1.64) saved a full-page screenshot of each posting. Nothing was applied to, no accounts were created and no one was contacted.
 - **What the AI did:** found the postings, summarized them in its own words, counted repeated capabilities, drafted the comparison, the target statement and the plan, and made the figure.
-- **What I provided:** the course guide and my CV. The target is provisional and mine to confirm.
-- **Limits:** 15 postings from 12 employers describe this sample, not the job market. Palantir postings were left out on purpose: I chose not to consider the company because of the work it does. Capability counts come from keyword matches in each posting's role text, then read by hand; a posting can need a skill it doesn't name. "Open to first-years" reflects each posting's stated rules, not a personal eligibility check. Pay figures are what each posting lists, not offers. F5 is tagged remote but lists a Mountain View location, and the posting doesn't explain which applies. Personal contact details are left out on purpose. Screenshots of job pages are kept for study and commentary.
+- **What I provided:** the course guide and my CV with its project links. I chose the target: FDE first, design engineering second.
+- **Limits:** 15 postings from 12 employers describe this sample, not the job market. Palantir postings were left out on purpose: I chose not to consider the company because of the work it does. Capability counts come from keyword matches in each posting's role text, then read by hand; a posting can need a skill it doesn't name. "Open to first-years" reflects each posting's stated rules, not a personal eligibility check. Pay figures are what each posting lists, not offers. Personal contact details are left out on purpose. Screenshots of job pages are kept for study and commentary.
 
 ## Sources
 
-All opened 4 Nov 2026 on the employer's own job page. Screenshots are in [evidence/](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
+All opened 4 Nov 2026 and rechecked 11 Nov 2026 on the employer's own job page. Screenshots are in [evidence/](https://github.com/mnguyenht/is117-career-research/tree/main/evidence).
 
-- **FDE:** [F3 Ramp](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8), [F4 Decagon](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2), [F5 Commure](https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0), [F6 OpenAI](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688)
+- **FDE:** [F3 Ramp](https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce), [F4 Decagon](https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2), [F5 LangChain](https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522), [F6 OpenAI](https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688)
 - **Design Engineer:** [D1 Perplexity](https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666), [D2 Ramp](https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f), [D3 Cohere](https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d)
 - **Developer Relations:** [R1 Vercel](https://job-boards.greenhouse.io/vercel/jobs/6122437004), [R2 Supabase](https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb), [R3 Modal](https://jobs.ashbyhq.com/modal/546c9eb1-aaf7-47ba-8e9d-0bcd443b3e94), [R4 Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5383596008)
 - **Entry paths:** [E1 Ramp](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74), [E2 Figma](https://job-boards.greenhouse.io/figma/jobs/6143238004), [E3 Figma](https://job-boards.greenhouse.io/figma/jobs/6180005004), [E4 Stripe](https://stripe.com/careers/listing/software-engineer-intern-summer-or-winter/8128745)
