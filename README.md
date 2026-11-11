@@ -142,7 +142,7 @@ Each ID links to its screenshot. Pay is copied as posted (currency USD); senior 
 
 </details>
 
-### Entry paths for summer 2027
+### Entry paths for summer 2027: stepping stones toward FDE
 
 | ID | Employer and title | Where | Eligibility | Pay as posted | Open to first-years |
 | --- | --- | --- | --- | --- | --- |
