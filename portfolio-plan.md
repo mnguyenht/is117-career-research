@@ -127,6 +127,8 @@ Each check is something a classmate can do and see pass or fail.
 
 Classmates review this plan by [opening an issue](https://github.com/mnguyenht/is117-career-research/issues/new?template=peer-review.md). The most useful review: try check S1 on a sketch of approach B and say where you got stuck. Each issue gets a decision (implement, investigate, defer or decline) with a reason. Accepted changes land in a commit that names the issue, and the reviewer re-checks before it closes.
 
+**Review requested:** [#5](https://github.com/mnguyenht/is117-career-research/issues/5), 17 Nov 2026.
+
 | Issue | Decision | Change | Retest |
 | --- | --- | --- | --- |
 | None yet | | | |
