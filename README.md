@@ -242,6 +242,8 @@ Proposed dates; the course's deadlines override them.
 | Check | Correct bld-package's README claims to the measured numbers | README update | Every number links to the benchmark | 6 Dec |
 | Present | Portfolio page with my target and both case studies | Live page | A peer finds my target and strongest proof in under a minute | 13 Dec |
 
+**Portfolio plan:** the next step, two page approaches, stories and checks, is in [Portfolio Plan](./portfolio-plan.md).
+
 **If it's too big:** benchmark one skill on three tasks instead of the whole set. **Timing note:** the summer 2027 internships above were posted between March and October 2026 and are open now. Applying is a separate decision and not part of this research.
 
 ## My unresolved question
